@@ -1,0 +1,22 @@
+{
+  "name": "market-react",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ethers": "^5.5.4",
+    "noty": "^3.2.0-beta-deprecated",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.2.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "tailwindcss": "^3.0.18",
+    "vim": "^0.1.0",
+    "vite": "^2.7.2"
+  }
+}

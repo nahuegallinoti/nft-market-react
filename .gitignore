@@ -1,0 +1,36 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies nft solidity truffle
+/nft-token-solidity-truffle/node_modules
+/nft-token-solidity-truffle/build
+/nft-token-solidity-truffle/truffle-config.js
+
+
+# dependencies react bak
+/market-react-bak/node_modules
+/market-react-bak/.pnp
+/market-react-bak/.pnp.js
+
+# testing
+/market-react-bak/coverage
+
+# production
+/market-react-bak/build
+
+# misc
+/market-react-bak/.DS_Store
+/market-react-bak/.env.local
+/market-react-bak/.env.development.local
+/market-react-bak/.env.test.local
+/market-react-bak/.env.production.local
+
+/market-react-bak/npm-debug.log*
+/market-react-bak/yarn-debug.log*
+/market-react-bak/yarn-error.log*
+
+# dependencies market react
+/market-react/node_modules
+/market-react/.DS_Store
+/market-react/dist
+/market-react/dist-ssr
+/market-react/*.local
